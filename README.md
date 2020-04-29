@@ -1,4 +1,4 @@
-# react-ts-3dq1zx
+# React App - Playground
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-3dq1zx)
 
@@ -19,6 +19,8 @@
 - Build a custom component
 - apply SASS to the application
 - learn the syntax basics
+
+> BONUS POINTS! Think of a useful app I would like to have (thats simple) and make it here.
 
 ### Available components and properties
 
